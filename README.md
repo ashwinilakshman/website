@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c2a1e4-c7c5-476e-824f-2021f3398d4b/deploy-status)](https://app.netlify.com/sites/dhi-spaces/deploys)
