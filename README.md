@@ -1,2 +1,0 @@
-# dhispaces-website
-DhiSpaces Website
